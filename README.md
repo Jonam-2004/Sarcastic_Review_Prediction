@@ -126,5 +126,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## Contact
 For questions or suggestions, feel free to reach out!
 
-**Author**: [Manoj S](https://github.com/Jonam-2004)
-
+## Contributors
+- **[Manoj S](https://github.com/Jonam-2004)**
+- **[Vignesh S](https://github.com/vickygit-commits)**
