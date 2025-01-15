@@ -126,5 +126,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## Contact
 For questions or suggestions, feel free to reach out!
 
-**Author**: Jonam-2004
+**Author**: [Manoj S](https://github.com/Jonam-2004)
 
